@@ -1,4 +1,4 @@
----
+enter code here---
 
 
 ---
@@ -104,3 +104,6 @@ begitu pula dengan manajemen sebuah proyek. Kualitas dari sebuah proyek dipengar
 dipenghujung kata kami ucapkan “Terima kasih”</li>
 </ul>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjE2ODkyNTldfQ==
+-->
