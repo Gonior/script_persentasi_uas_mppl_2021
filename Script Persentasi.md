@@ -9,7 +9,7 @@ Sebelum masuk ke pembahasan saya ingin membacakan sebuah kutipan yang saya ambil
 <blockquote>
 <p>Mecintai itu bukan perilah siapa yang “paling” tapi ini perihal  siapa yang “saling”</p>
 </blockquote>
-<p>mungkin kutipan tersebut tidak berhubungan dengan materi yang akan saya sampaikan, akan tetapi kutipan tersebut berhubungan dengan situasi kelompok kita saat ini <s>apalagi dengan mantan saya</s>.  Jarak yang kita tidak bisa hindari akibat pandemi ini melemahkan sebagian besar komunikasi, penurunan semangat belajar ditambah 1 dan lain hal yang perlahan-lahan mempengaruhi kurangnya kerja sama  kita dalam mengerjakan tugas besar ini. tetapi berkat kesadaraan diri  yang dibantu dengan tututan dari sang dosen materi ini bisa tersampaikan sebagaimana mestiya walaupun itu  juga di penghujung babak extra time jadwal UAS MPPL.<br>
+<p>mungkin kutipan tersebut tidak berhubungan dengan materi yang akan saya sampaikan, akan tetapi kutipan tersebut berhubungan dengan situasi kelompok kita saat ini.  Jarak yang kita tidak bisa hindari akibat pandemi ini melemahkan sebagian besar komunikasi, penurunan semangat belajar ditambah 1 dan lain hal yang perlahan-lahan mempengaruhi kurangnya kerja sama  kita dalam mengerjakan tugas besar ini. tetapi berkat kesadaraan diri  yang dibantu dengan tututan dari sang dosen materi ini bisa tersampaikan sebagaimana mestiya walaupun itu  juga di penghujung babak extra time jadwal UAS MPPL.<br>
 Baiklah kita masuk ke bagian struktur organisasi</p>
 <p><strong>Slide 3</strong><br>
 Dari diagram struktur organisasi yang ditampilkan, terdapat Pak Martin selaku product owner, Anindira selaku Project Manager, dan saya selaku Scrum Master walaupun hanya sebatas tertulis saja. Lalu ada Firman Alfinas sebagai techincal writer dan tak lain tak bukan the armor protector level 18 Agung Sepruloh selaku hero core kita sekaligus programmer. Tak lupa ada dua orang yang energi kehidupannya yang semakin hari semakin menipis (bercanda deng). Ada dua orang yang sibuk dengan pekerjaannya masing - masing, yaitu Dandi dan Syifa Amruloh.</p>
@@ -102,5 +102,5 @@ dipenghujung kata kami ucapkan “Terima kasih”</li>
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDIyNzUzNF19
+eyJoaXN0b3J5IjpbMTEwMDc0NTIxMl19
 -->
