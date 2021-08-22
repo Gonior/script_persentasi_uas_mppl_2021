@@ -101,6 +101,11 @@ begitu pula dengan manajemen sebuah proyek. Kualitas dari sebuah proyek dipengar
 dipenghujung kata kami ucapkan “Terima kasih”</li>
 </ul>
 
+<p>Berdasarkan kontirbusi masing masing anggota kelompok, yang pertama agung berkontibusi secara keseluruhan dibagian coding dan Trello <br/>
+  Dan untuk saya (firman), dedi kontrtibusi di bagian dokumentasi dan pembuatan persentasi<br/>
+  untuk Anindira berkontibusi pembuatan RAB dan persentasi.<br/>
+  untuk sisanya jujur miris ya:)
+</p>
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEwMDc0NTIxMl19
 -->
